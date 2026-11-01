@@ -1,0 +1,15 @@
+# Large original downloads (rebuilt by src/fetch_data.py; slim copies are in data/raw/)
+data/download/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+*.key
+*_key*.txt
+
+# OS
+.DS_Store

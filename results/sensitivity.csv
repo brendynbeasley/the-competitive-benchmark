@@ -1,0 +1,11 @@
+market,case,MP_summers
+CAISO,Baseline (BBW rules),0.018294205613097136
+CAISO,Negative markups set to zero,0.12479664984283333
+CAISO,SP15 hub price instead of system energy price,-0.04063406317324466
+CAISO,No forced outages,0.07653007742658566
+CAISO,"Add regulation reserve, 2.2% of demand",-0.038691871239006
+CAISO,"Imports respond to price, elasticity 0.63",0.002827312095702308
+ERCOT,Baseline (BBW rules),0.4692112225756196
+ERCOT,Negative markups set to zero,0.5104065947310271
+ERCOT,No forced outages,0.5420550636543272
+ERCOT,"Add regulation reserve, 2.2% of demand",0.2550582547392747

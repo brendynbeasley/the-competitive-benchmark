@@ -1,0 +1,19 @@
+market,operator,summer_mw,share,plants,largest_plant,largest_plant_mw
+CAISO,"Ormond Beach Power, LLC",1491.0,0.05870097228652688,1.0,Ormond Beach,1491.0
+CAISO,Pacific Gas & Electric Co.,1366.8,0.053811193106120016,3.0,Colusa Generating Station,640.0
+CAISO,Southern California Edison Co,1269.7,0.04998834641998872,7.0,Mountainview Generating Station,1018.0
+CAISO,AES Alamitos LLC,1142.0,0.04496077152998907,1.0,AES Alamitos LLC,1142.0
+CAISO,Dynegy -Moss Landing LLC,1020.0,0.04015760679561195,1.0,Dynegy Moss Landing Power Plant Hybrid,1020.0
+CAISO,CXA La Paloma LLC,1010.0,0.03976390476820399,1.0,La Paloma Generating LLC,1010.0
+CAISO,"MRP Generation Holdings, LLC",889.2,0.03500798427711583,1.0,High Desert Power Plant,889.2
+CAISO,Delta Energy Center LLC,842.0,0.03314971070775026,1.0,Delta Energy Center,842.0
+CAISO,"HHI of dispatchable fossil capacity (0-10,000)",25399.920000000002,283.45746133255113,,,
+ERCOT,NRG Texas Power LLC,8304.0,0.13169810303346532,6.0,W A Parish,3632.0
+ERCOT,City of San Antonio - (TX),7977.7,0.1265231161572828,13.0,J K Spruce,1345.0
+ERCOT,Luminant Generation Company LLC,7627.0,0.12096115508625242,9.0,Martin Lake,2455.0
+ERCOT,LaFrontera Holdings LLC,3875.8,0.06146863050784019,3.0,Forney Energy Center,1770.0
+ERCOT,Lower Colorado River Authority,3604.0,0.057157991730805525,6.0,Fayette Power Project,1615.0
+ERCOT,Exelon Power,3491.1,0.055367443099726736,3.0,Handley,1245.0
+ERCOT,Midlothian Energy LLC,1620.0,0.025692549002193383,1.0,Midlothian Energy Facility,1620.0
+ERCOT,PPG - O&M Panda Temple Power LLC,1580.0,0.025058165076213296,1.0,Panda Temple Power Station,1580.0
+ERCOT,"HHI of dispatchable fossil capacity (0-10,000)",63053.3,636.7223793616635,,,

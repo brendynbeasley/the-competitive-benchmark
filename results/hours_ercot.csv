@@ -1,0 +1,2 @@
+market,hours,hours_with_price,mean_price,mean_pcomp,hours_price_le_0,share_negative_markup
+ERCOT,61344,61330,55.25080710908202,32.17170172394228,42,0.5594651883254524
